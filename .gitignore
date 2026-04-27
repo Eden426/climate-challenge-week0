@@ -1,0 +1,6 @@
+data/
+Data/
+*.csv
+.ipynb_checkpoints/
+anaconda_projects/
+__pycache__/
